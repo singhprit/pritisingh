@@ -9,7 +9,7 @@ My professional areas of interest include drawing, sketching, and designing. I s
 
 At my current company, I was instrumental in implementing a Sharp-and-Clear-Lines policy that reduced smudges by 43% and raised designer satisfaction by more than 78 basis points.
 
-## Here’s my employment history:##
+## Here’s my employment history ##
 
 |year| Company|
 |.....|......|
@@ -20,7 +20,7 @@ At my current company, I was instrumental in implementing a Sharp-and-Clear-Line
 - 1765 - 1781: Staedtler Mars GmbH
 - 1757 - 1765: Dixon Ticonderoga Inc
 
-# What am I looking for?#
+# What am I looking for? #
 
 I am looking for a role where I can use my special point-and-mark skills to annotate research papers at academic institutions that offer certificate courses in the 
 following areas: mythology, war games, and kite making.
