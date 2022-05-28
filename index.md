@@ -9,9 +9,12 @@ My professional areas of interest include drawing, sketching, and designing. I s
 
 At my current company, I was instrumental in implementing a Sharp-and-Clear-Lines policy that reduced smudges by 43% and raised designer satisfaction by more than 78 basis points.
 
---- Here’s my employment history:---
-|...1806...||...present...||Newell Musgrave LLC|
-- 1781 - 1806: Derwent Cumberland Co
+Here’s my employment history:
+
+|year| Company|
+|.....|......|
+|1806| present...|Newell Musgrave LLC|
+|1781| 1806: |Derwent Cumberland Co|
 - 1765 - 1781: Staedtler Mars GmbH
 - 1757 - 1765: Dixon Ticonderoga Inc
 
